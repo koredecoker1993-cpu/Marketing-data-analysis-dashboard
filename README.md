@@ -19,4 +19,12 @@ The objective of this project is to analyse Facebook Ads performance across coun
 
 ## Dashboard Interactions <a href="https://github.com/koredecoker1993-cpu/Marketing-data-analysis-dashboard/blob/main/Screenshot%20(79).png">View Dashboard</a>
 
+## Process
+
+- Collected and cleaned the raw Facebook Ads data, ensuring campaign names, spend values, and lead metrics were properly formatted for analysis.
+- Transformed and modelled the dataset in Power Query, creating a structured data model suitable for reporting.
+- Built key KPIs and calculated measures in Power BI, including total spend, leads generated, and average cost per result.
+- Designed interactive visuals to compare performance by country, track monthly trends, and analyse campaign delivery status.
+- Developed a clean, user‑friendly dashboard layout to help stakeholders quickly interpret marketing performance and make data‑driven decisions.
+
 
