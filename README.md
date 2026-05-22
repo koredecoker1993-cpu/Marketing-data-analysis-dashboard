@@ -28,7 +28,8 @@ The objective of this project is to analyse Facebook Ads performance across coun
 - Developed a clean, user‑friendly dashboard layout to help stakeholders quickly interpret marketing performance and make data‑driven decisions.
 
 ## Dashboard  
-<img width="1428" height="973" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/7cfeb4aa-d2de-4b0d-adc7-cc8f072131fe" />
+<img width="1435" height="790" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b48355ad-58ea-4397-9982-d9b545faf5d0" />
+
 
 
 
