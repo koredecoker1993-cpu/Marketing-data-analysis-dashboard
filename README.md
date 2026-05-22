@@ -17,7 +17,7 @@ The objective of this project is to analyse Facebook Ads performance across coun
 - Amount spent per month on campaigns and leads generated in all countries
 - Determine the Cost Per Result (CPR) for question (4) above by countries.
 
-## Dashboard Interactions <a href="https://github.com/koredecoker1993-cpu/Marketing-data-analysis-dashboard/blob/main/Screenshot%20(79).png">View Dashboard</a>
+## Dashboard Interactions <a href="https://github.com/koredecoker1993-cpu/Marketing-data-analysis-dashboard/blob/main/Screenshot%20(80).png">View Dashboard</a>
 
 ## Process
 
