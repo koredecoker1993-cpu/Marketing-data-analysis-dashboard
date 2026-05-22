@@ -27,4 +27,8 @@ The objective of this project is to analyse Facebook Ads performance across coun
 - Designed interactive visuals to compare performance by country, track monthly trends, and analyse campaign delivery status.
 - Developed a clean, user‑friendly dashboard layout to help stakeholders quickly interpret marketing performance and make data‑driven decisions.
 
+## Dashboard  
+<img width="1920" height="1200" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/6d63519a-3c7d-4bee-9279-9def180a3e15" />
+
+
 
