@@ -30,6 +30,18 @@ The objective of this project is to analyse Facebook Ads performance across coun
 ## Dashboard  
 <img width="1435" height="790" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b48355ad-58ea-4397-9982-d9b545faf5d0" />
 
+## Project Insight
+
+- The UK drives the highest advertising spend, yet Nigeria generates the most leads, showing strong cost‑efficiency in that region.
+- Monthly trends reveal that spend and leads do not always rise together, highlighting periods of inefficient budget allocation.
+- The average cost per result (£4.55) indicates overall good performance, but some countries show significantly better conversion value than others.
+- Campaign delivery and status visuals show that most campaigns are running as expected, with only a small portion underperforming or paused.
+- The comparison between spend and leads by country exposes clear optimisation opportunities for reallocating budget to higher‑performing regions.
+
+## Final Conclusion
+
+ This dashboard provides a comprehensive view of Facebook Ads performance across countries and months, revealing how budget allocation, lead generation, and cost efficiency vary across regions. The insights highlight where marketing spend delivers the highest value and where optimisation opportunities exist, enabling more informed, data‑driven decisions for future campaign planning.
+
 
 
 
