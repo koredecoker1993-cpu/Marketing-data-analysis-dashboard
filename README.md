@@ -1,15 +1,23 @@
 # Marketing-data-analysis-dashboard (Interactive Dashboard creation using Excel & Power Bi)
 Facebook Ads performance across multiple countries and time periods. It provides a clear, data‑driven view of marketing effectiveness, spend efficiency, and lead generation trends.
+---
 
-## Project Objectives
+## KEY METRICS SUMMARY
+| Country | Cost per Result | Campaigns | Key Insight |
+| --- | --- | --- | --- |
+| **United Kingdom** | £0.22 | 30 | Highest number of campaigns and leads generated; strong ROI efficiency |
+| **Nigeria** | £0.19 | 11 | Most cost-efficient region with steady lead generation |
+| **Other Regions** | £1.27 | 7 | Higher CPR indicates lower cost efficiency |
+
+## PROJECT OBJECTIVES
 
 The objective of this project is to analyse Facebook Ads performance across countries and time periods, evaluate spend efficiency, identify high‑ and low‑performing regions, and provide actionable insights through an interactive Power BI dashboard that supports data‑driven marketing decisions.
 
-## Dataset used
+## DATASET USED
 
 <a href="https://github.com/koredecoker1993-cpu/Marketing-data-analysis-dashboard/blob/main/Cleaned%20ACUK%20-%20Facebook%20Ads%20Campaign%20data.xlsx">Dataset</a>
 
-## Question (KPIs)
+## QUESTION (KPIs)
 
 - Compare number of campaigns in all countries.
 - Average number of campaigns per country on monthly basis.
@@ -19,7 +27,7 @@ The objective of this project is to analyse Facebook Ads performance across coun
 
 ## Dashboard Interactions <a href="https://github.com/koredecoker1993-cpu/Marketing-data-analysis-dashboard/blob/main/Screenshot%20(80).png">View Dashboard</a>
 
-## Process
+## PROCESS
 
 - Collected and cleaned the raw Facebook Ads data, ensuring campaign names, spend values, and lead metrics were properly formatted for analysis.
 - Transformed and modelled the dataset in Power Query, creating a structured data model suitable for reporting.
@@ -27,10 +35,10 @@ The objective of this project is to analyse Facebook Ads performance across coun
 - Designed interactive visuals to compare performance by country, track monthly trends, and analyse campaign delivery status.
 - Developed a clean, user‑friendly dashboard layout to help stakeholders quickly interpret marketing performance and make data‑driven decisions.
 
-## Dashboard  
+## DASHBOARD  
 <img width="1435" height="790" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/b48355ad-58ea-4397-9982-d9b545faf5d0" />
 
-## Project Insight
+## PROJECT INSIGHT
 
 - The UK drives the highest advertising spend, yet Nigeria generates the most leads, showing strong cost‑efficiency in that region.
 - Monthly trends reveal that spend and leads do not always rise together, highlighting periods of inefficient budget allocation.
@@ -38,7 +46,7 @@ The objective of this project is to analyse Facebook Ads performance across coun
 - Campaign delivery and status visuals show that most campaigns are running as expected, with only a small portion underperforming or paused.
 - The comparison between spend and leads by country exposes clear optimisation opportunities for reallocating budget to higher‑performing regions.
 
-## Final Conclusion
+## FINAL CONCLUSION
 
  This dashboard provides a comprehensive view of Facebook Ads performance across countries and months, revealing how budget allocation, lead generation, and cost efficiency vary across regions. The insights highlight where marketing spend delivers the highest value and where optimisation opportunities exist, enabling more informed, data‑driven decisions for future campaign planning.
 
